@@ -157,7 +157,7 @@
       "TOTAL_HUTANG_YANG_HARUS_DIBAYAR_KONSUMEN":1000
     }
   ],
-  "comments": [
+  "collateralDetail": [
     {
       "id": 1,
       "body": "some comment",
