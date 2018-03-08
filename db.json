@@ -160,12 +160,8 @@
   "collateralDetail": [
     {
       "id": 1,
-      "body": "change it",
-      "OBJECT_ID": 1,
-      "OBJECT_DESC":"motor kesayangan",
-      "BRAND_ID":019,
-      "BRAND_DESC":"SANEX",
-      "MODEL_ID":567
+      "body": "some comment",
+      "postId": 1
     },
     {
       "id": 2,
