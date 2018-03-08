@@ -157,16 +157,57 @@
       "TOTAL_HUTANG_YANG_HARUS_DIBAYAR_KONSUMEN":1000
     }
   ],
-  "comments": [
+  "collateralDetail": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "OBJECT_ID":111,
+      "OBJECT_DESC":"motor kesayangan",
+      "BRAND_ID":019,
+      "BRAND_DESC":"SANEX",
+      "MODEL_ID":567,
+      "MODEL_DESC":"SANEX BETA",
+      "OBJECT_TYPE_ID":001,
+      "OBJECT_TYPE_DESC":"BEBEK",
+      "OBJECT_YEAR":2016,
+      "WARNAOBJEK":"Hijau",
+      "NOMORPOLISI":"F1234AA",
+      "NOMORRANGKA":123123123,
+      "NOMORMESIN":111111111,
+      "TANGGALSTNK":"01-01-2017"
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "OBJECT_ID":111,
+      "OBJECT_DESC":"motor kesayangan",
+      "BRAND_ID":019,
+      "BRAND_DESC":"SANEX",
+      "MODEL_ID":567,
+      "MODEL_DESC":"SANEX BETA",
+      "OBJECT_TYPE_ID":001,
+      "OBJECT_TYPE_DESC":"BEBEK",
+      "OBJECT_YEAR":2016,
+      "WARNAOBJEK":"Hijau",
+      "NOMORPOLISI":"F1234AA",
+      "NOMORRANGKA":123123123,
+      "NOMORMESIN":111111111,
+      "TANGGALSTNK":"01-01-2017"
+    },
+	{
+      "id": 3,
+      "OBJECT_ID":111,
+      "OBJECT_DESC":"motor kesayangan",
+      "BRAND_ID":019,
+      "BRAND_DESC":"SANEX",
+      "MODEL_ID":567,
+      "MODEL_DESC":"SANEX BETA",
+      "OBJECT_TYPE_ID":001,
+      "OBJECT_TYPE_DESC":"BEBEK",
+      "OBJECT_YEAR":2016,
+      "WARNAOBJEK":"Hijau",
+      "NOMORPOLISI":"F1234AA",
+      "NOMORRANGKA":123123123,
+      "NOMORMESIN":111111111,
+      "TANGGALSTNK":"01-01-2017"
     }
   ],
   "profile": {
