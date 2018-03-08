@@ -1,7 +1,7 @@
 {
   "contractDetail": [
     {
-      "CONTRACT_NO": 1,
+      "id": 1,
       "KEGIATAN_USAHA": "Dagang",
       "APPLICATION_NO":111,
       "NO_MEMO":111,
@@ -12,7 +12,7 @@
 	  "PPD_DATE":"01-01-2017"
     },
     {
-      "CONTRACT_NO": 2,
+      "id": 2,
       "KEGIATAN_USAHA": "Dagang",
       "APPLICATION_NO":111,
       "NO_MEMO":111,
@@ -23,7 +23,7 @@
 	  "PPD_DATE":"01-01-2017"
     },
     {
-      "CONTRACT_NO": 3,
+      "id": 3,
       "KEGIATAN_USAHA": "Dagang",
       "APPLICATION_NO":111,
       "NO_MEMO":111,
