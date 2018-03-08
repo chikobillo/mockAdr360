@@ -2,39 +2,24 @@
   "contractDetail": [
     {
       "CONTRACT_NO": 1,
-      "KEGIATAN_USAHA": "Post 1"
+      "KEGIATAN_USAHA": "Dagang"
       "CONTRACT_NO":123,
       "APPLICATION_NO":111,
-      "NO_MEMO":111,
-      "TANGGAL_ORDER":"01-01-2017",
-      "TANGGAL_APPROVAL":"01-01-2017",
-      "TANGGAL_TERBIT_PO":"01-01-2017",
-      "TANGGAL_PENYERAHAN_UNIT":"01-01-2017",
-      "PPD_DATE":"01-01-2017"
+      "NO_MEMO":111
     },
     {
       "CONTRACT_NO": 2,
       "KEGIATAN_USAHA": "Post 1"
       "CONTRACT_NO":123,
       "APPLICATION_NO":111,
-      "NO_MEMO":111,
-      "TANGGAL_ORDER":"01-01-2017",
-      "TANGGAL_APPROVAL":"01-01-2017",
-      "TANGGAL_TERBIT_PO":"01-01-2017",
-      "TANGGAL_PENYERAHAN_UNIT":"01-01-2017",
-      "PPD_DATE":"01-01-2017"
+      "NO_MEMO":111
     },
     {
       "CONTRACT_NO": 3,
       "KEGIATAN_USAHA": "Post 1"
       "CONTRACT_NO":123,
       "APPLICATION_NO":111,
-      "NO_MEMO":111,
-      "TANGGAL_ORDER":"01-01-2017",
-      "TANGGAL_APPROVAL":"01-01-2017",
-      "TANGGAL_TERBIT_PO":"01-01-2017",
-      "TANGGAL_PENYERAHAN_UNIT":"01-01-2017",
-      "PPD_DATE":"01-01-2017"
+      "NO_MEMO":111
     }
   ],
   "comments": [
