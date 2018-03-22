@@ -159,14 +159,55 @@
   ],
   "collateralDetail": [
     {
-      "id": 1,
-      "OBJECT_ID": "some comment",
-      "OBJECT_DESC": 1
+      "id": 201802220006,
+      "OBJECT_ID":123123,
+      "OBJECT_DESC":"Kendaraan Bermotor",
+      "BRAND_ID":111111,
+      "BRAND_DESC":"Yamaha",
+      "MODEL_ID":222222,
+      "MODEL_DESC":"Mio",
+      "OBJECT_TYPE_ID":333333,
+      "OBJECT_TYPE_DESC":"Bebek",
+      "OBJECT_YEAR":2017,
+      "WARNA OBJEK":"Hitam",
+      "NOMOR POLISI":"B111AA",
+      "NOMOR RANGKA":54321321,
+      "NOMOR MESIN":666777,
+      "TANGGAL STNK":10-10-2018
     },
     {
-      "id": 2,
-      "OBJECT_DESC": "some comment",
-      "OBJECT_DESC": 1
+      "id": 201802220004,
+      "OBJECT_ID":123123,
+      "OBJECT_DESC":"Kendaraan Bermotor",
+      "BRAND_ID":111111,
+      "BRAND_DESC":"Yamaha",
+      "MODEL_ID":222222,
+      "MODEL_DESC":"Mio",
+      "OBJECT_TYPE_ID":333333,
+      "OBJECT_TYPE_DESC":"Bebek",
+      "OBJECT_YEAR":2017,
+      "WARNA OBJEK":"Hitam",
+      "NOMOR POLISI":"B111AA",
+      "NOMOR RANGKA":54321321,
+      "NOMOR MESIN":666777,
+      "TANGGAL STNK":10-10-2018
+    },
+    {
+      "id": 201802220005,
+      "OBJECT_ID":123123,
+      "OBJECT_DESC":"Kendaraan Bermotor",
+      "BRAND_ID":111111,
+      "BRAND_DESC":"Yamaha",
+      "MODEL_ID":222222,
+      "MODEL_DESC":"Mio",
+      "OBJECT_TYPE_ID":333333,
+      "OBJECT_TYPE_DESC":"Bebek",
+      "OBJECT_YEAR":2017,
+      "WARNA OBJEK":"Hitam",
+      "NOMOR POLISI":"B111AA",
+      "NOMOR RANGKA":54321321,
+      "NOMOR MESIN":666777,
+      "TANGGAL STNK":10-10-2018
     }
   ],
   "profile": {
