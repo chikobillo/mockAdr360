@@ -173,7 +173,7 @@
       "NOMOR POLISI":"B111AA",
       "NOMOR RANGKA":54321321,
       "NOMOR MESIN":666777,
-      "TANGGAL STNK":10-10-2018
+      "TANGGAL STNK":"10-10-2018"
     },
     {
       "id": 201802220004,
@@ -190,7 +190,7 @@
       "NOMOR POLISI":"B111AA",
       "NOMOR RANGKA":54321321,
       "NOMOR MESIN":666777,
-      "TANGGAL STNK":10-10-2018
+      "TANGGAL STNK":"10-10-2018"
     },
     {
       "id": 201802220005,
@@ -207,7 +207,7 @@
       "NOMOR POLISI":"B111AA",
       "NOMOR RANGKA":54321321,
       "NOMOR MESIN":666777,
-      "TANGGAL STNK":10-10-2018
+      "TANGGAL STNK":"10-10-2018"
     }
   ],
   "profile": {
