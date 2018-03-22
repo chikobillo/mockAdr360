@@ -53,7 +53,7 @@
       "TOTAL_HUTANG_YANG_HARUS_DIBAYAR_KONSUMEN":1000
     },
     {
-      "id": 2,
+      "id": 201802220004,
       "KEGIATAN_USAHA": "Dagang",
       "APPLICATION_NO":111,
       "NO_MEMO":111,
@@ -105,7 +105,7 @@
       "TOTAL_HUTANG_YANG_HARUS_DIBAYAR_KONSUMEN":1000
     },
     {
-      "id": 3,
+      "id": 201802220006,
       "KEGIATAN_USAHA": "Dagang",
       "APPLICATION_NO":111,
       "NO_MEMO":111,
