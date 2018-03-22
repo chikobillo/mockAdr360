@@ -169,11 +169,11 @@
       "OBJECT_TYPE_ID":333333,
       "OBJECT_TYPE_DESC":"Bebek",
       "OBJECT_YEAR":2017,
-      "WARNA OBJEK":"Hitam",
-      "NOMOR POLISI":"B111AA",
-      "NOMOR RANGKA":54321321,
-      "NOMOR MESIN":666777,
-      "TANGGAL STNK":"10-10-2018"
+      "WARNA_OBJEK":"Hitam",
+      "NOMOR_POLISI":"B111AA",
+      "NOMOR_RANGKA":54321321,
+      "NOMOR_MESIN":666777,
+      "TANGGAL_STNK":"10-10-2018"
     },
     {
       "id": 201802220004,
@@ -186,11 +186,11 @@
       "OBJECT_TYPE_ID":333333,
       "OBJECT_TYPE_DESC":"Bebek",
       "OBJECT_YEAR":2017,
-      "WARNA OBJEK":"Hitam",
-      "NOMOR POLISI":"B111AA",
-      "NOMOR RANGKA":54321321,
-      "NOMOR MESIN":666777,
-      "TANGGAL STNK":"10-10-2018"
+      "WARNA_OBJEK":"Hitam",
+      "NOMOR_POLISI":"B111AA",
+      "NOMOR_RANGKA":54321321,
+      "NOMOR_MESIN":666777,
+      "TANGGAL_STNK":"10-10-2018"
     },
     {
       "id": 201802220005,
@@ -203,11 +203,11 @@
       "OBJECT_TYPE_ID":333333,
       "OBJECT_TYPE_DESC":"Bebek",
       "OBJECT_YEAR":2017,
-      "WARNA OBJEK":"Hitam",
-      "NOMOR POLISI":"B111AA",
-      "NOMOR RANGKA":54321321,
-      "NOMOR MESIN":666777,
-      "TANGGAL STNK":"10-10-2018"
+      "WARNA_OBJEK":"Hitam",
+      "NOMOR_POLISI":"B111AA",
+      "NOMOR_RANGKA":54321321,
+      "NOMOR_MESIN":666777,
+      "TANGGAL_STNK":"10-10-2018"
     }
   ],
   "profile": {
