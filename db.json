@@ -243,6 +243,59 @@
       "KEL_NAME":"Kowangan"
     }
   ],
+  "instict": [
+    {
+      "id": "9926437856734",
+      "ORGANISATION":"ADF",
+      "COUNTRY_CODE":"ID",
+      "APPLICATION_NUMBER":"432432432",
+      "APPLICATION_DATE":"04-04-2018",
+      "APPLICATION_TYPE":"AO",
+      "ID_NUMBER":"9926437856734",
+      "SURNAME":"Francisca",
+      "SEX":"Perempuan",
+      "DOB":"08-10-1978",
+      "PHONE_NUMBER":"081295834713",
+	  "FRAUD_SCORE":"3",
+	  "FRAUD_ALERT":"No Fraud",
+	  "ERROR_CODE":"00",
+	  "RULE_TRIGGERED_1":"1"
+    },
+    {
+      "id": "3583992183246",
+      "ORGANISATION":"ADF",
+      "COUNTRY_CODE":"ID",
+      "APPLICATION_NUMBER":"543543543",
+      "APPLICATION_DATE":"02-02-2018",
+      "APPLICATION_TYPE":"AO",
+      "ID_NUMBER":"3583992183246",
+      "SURNAME":"Agung",
+      "SEX":"Laki-laki",
+      "DOB":"19-10-1989",
+      "PHONE_NUMBER":"085643768723",
+	  "FRAUD_SCORE":"3",
+	  "FRAUD_ALERT":"No Fraud",
+	  "ERROR_CODE":"00",
+	  "RULE_TRIGGERED_1":"1"
+    },
+    {
+      "id": "04071391219014",
+      "ORGANISATION":"ADF",
+      "COUNTRY_CODE":"ID",
+      "APPLICATION_NUMBER":"654654654",
+      "APPLICATION_DATE":"04-04-2018",
+      "APPLICATION_TYPE":"AO",
+      "ID_NUMBER":"04071391219014",
+      "SURNAME":"Vata",
+      "SEX":"Laki-laki",
+      "DOB":"07-10-1974",
+      "PHONE_NUMBER":"081295834713",
+	  "FRAUD_SCORE":"3",
+	  "FRAUD_ALERT":"No Fraud",
+	  "ERROR_CODE":"00",
+	  "RULE_TRIGGERED_1":"1"
+    }
+  ],
   "collateralDetail": [
     {
       "id": 201802220006,
