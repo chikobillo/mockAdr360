@@ -103,58 +103,6 @@
       "OUTSTANDING_TRANSACTION_FEE":1000,
       "PENALTY_PLUS_PELUNASAN":1000,
       "TOTAL_HUTANG_YANG_HARUS_DIBAYAR_KONSUMEN":1000
-    },
-    {
-      "id": 201802220006,
-      "KEGIATAN_USAHA": "Dagang",
-      "APPLICATION_NO":111,
-      "NO_MEMO":111,
-      "TANGGAL_ORDER":"01-01-2017",
-      "TANGGAL_APPROVAL":"01-01-2017",
-      "TANGGAL_TERBIT_PO":"01-01-2017",
-      "TANGGAL_PENYERAHAN_UNIT":"01-01-2017",
-      "PPD_DATE":"01-01-2017",
-      "TANGGAL_JATUH_TEMPO":"01-01-2017",
-      "PREDICTION_DATE":"01-01-2017",
-      "INTERNAL_SALES_FORCE_ID":111,
-      "INTERNAL_SALES_OFFICER_NAME":"Budi",
-      "DEALER_CODE":111,
-      "DEALER_NAME":"Utama",
-      "DLC":111,
-      "TYPE_PEMBIAYAAN":111,
-      "KEGIATAN_USAHA":"Dagang",
-      "HARGA_OBJEK":1000,
-      "GROSS_DP":1000,
-      "TENOR":1000,
-      "TOTAL_POKOK_HUTANG":1000,
-      "SISA_POKOK_HUTANG":1000,
-      "TOTAL_BUNGA":1000,
-      "BUNGA_BERJALAN":1000,
-      "INSTALLMENT_AMOUNT":1000,
-      "OUTSTANDING_INSTALLMENT":1000,
-      "TOTAL_DENDA":1000,
-      "DENDA_YANG_SUDAH_DIBAYAR":1000,
-      "DENDA_YANG_BELUM_DIBAYAR":1000,
-      "CURRENT_PENALTY":1000,
-      "BIAYA_FIDUSIA":1000,
-      "PROSES_FIDUSIA":111,
-      "OVERDUE":1000,
-      "OD_MAX":1000,
-      "LAST_OVERDUE":"01-01-2017",
-      "TYPE_ANGSURAN":1,
-      "JENIS_PEMBAYARAN_DI_MUKA_DI_BELAKANG":1,
-      "TANGGAL_ANGSURAN_PERTAMA":"01-01-2017",
-      "TANGGAL_PEMBAYARAN_TERAKHIR":"01-01-2017",
-      "PAYMENT_CHANNEL":"ATM",
-      "STATUS":"Good",
-      "SISA_TENOR":1000,
-      "FINANCING_BANK_ID":111,
-      "FINANCING_BANK_NAME":"BankAAA",
-      "PLAFOND_INSTALLMENT":1000,
-      "PROCESS":111,
-      "OUTSTANDING_TRANSACTION_FEE":1000,
-      "PENALTY_PLUS_PELUNASAN":1000,
-      "TOTAL_HUTANG_YANG_HARUS_DIBAYAR_KONSUMEN":1000
     }
   ],
   "dukcapil": [
@@ -253,23 +201,6 @@
   ],
   "collateralDetail": [
     {
-      "id": 201802220006,
-      "OBJECT_ID":123123,
-      "OBJECT_DESC":"Kendaraan Bermotor",
-      "BRAND_ID":111111,
-      "BRAND_DESC":"Yamaha",
-      "MODEL_ID":222222,
-      "MODEL_DESC":"Mio",
-      "OBJECT_TYPE_ID":333333,
-      "OBJECT_TYPE_DESC":"Bebek",
-      "OBJECT_YEAR":2017,
-      "WARNA_OBJEK":"Hitam",
-      "NOMOR_POLISI":"B111AA",
-      "NOMOR_RANGKA":54321321,
-      "NOMOR_MESIN":666777,
-      "TANGGAL_STNK":"10-10-2018"
-    },
-    {
       "id": 201802220004,
       "OBJECT_ID":123123,
       "OBJECT_DESC":"Kendaraan Bermotor",
@@ -302,6 +233,31 @@
       "NOMOR_RANGKA":54321321,
       "NOMOR_MESIN":666777,
       "TANGGAL_STNK":"10-10-2018"
+    }
+  ],
+  "dedupe": [
+    {
+        "status": "1",
+        "strmessage": "Suskes",
+        "P_RC1": [
+            {
+                "AC_CUST_ID": "03211700000098",
+                "AC_ID_NO": "123456789",
+                "AC_CUST_NAME": "TES JOHANES",
+                "AC_DATE_BIRTH": "19/09/1993",
+                "AC_MOTHER_NAME": " TEST MANTAP",
+                "AC_PLACE_BIRTH": "JAKARTA",
+                "AC_ADDRESS": "JALAN NO 1",
+                "PARA_CUST_TYPE_ID": "1",
+                "AC_FLAG_SOURCE": "1",
+                "SCORE": 98.6,
+                "MODIFIED_DATE": "26/09/2017",
+                "AC_FLAG_DETAIL": "0",
+                "COLUMN_JOIN": 1,
+                "PARA_CUST_NO": "032100008217",
+                "AC_BR_ID": "0321"
+            }
+        ]
     }
   ],
   "profile": {
